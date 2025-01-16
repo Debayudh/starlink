@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.tcs.ott",
+               "sha256_cert_fingerprints": ["C6:3F:28:AD:0D:B9:55:BB:E3:93:BD:DA:C4:4E:09:1B:66:D3:45:F5:5C:7D:0C:DE:E5:1F:9D:12:DA:A2:48:D1"] }
+}]
